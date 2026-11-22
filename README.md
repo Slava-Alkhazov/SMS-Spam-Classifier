@@ -8,6 +8,7 @@ The [notebook](sms_spam_classifier.ipynb) loads the dataset, removes duplicate m
 
 ## Run locally
 
+Use Python 3.11 or newer. Open a terminal in the project folder. If you use Anaconda on Windows, open Anaconda Prompt.
 
 ```bash
 python -m pip install -r requirements.txt
