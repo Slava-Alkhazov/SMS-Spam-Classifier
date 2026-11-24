@@ -1,5 +1,6 @@
 # SMS Spam Classifier
 
+A small machine learning project that uses TF-IDF and logistic regression to classify English SMS messages as spam or ordinary messages (`ham`).
 
 ## Data preparation
 
