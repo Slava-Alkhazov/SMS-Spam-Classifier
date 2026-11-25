@@ -4,7 +4,7 @@ A small machine learning project that uses TF-IDF and logistic regression to cla
 
 ## Data preparation
 
-
+The [notebook](sms_spam_classifier.ipynb) loads the dataset, removes duplicate messages after normalizing case and whitespace, and summarizes the label distribution. Of the 5,574 original messages, 5,159 are unique. The unique messages include 4,517 ordinary messages and 642 spam messages.
 
 ## Run locally
 
